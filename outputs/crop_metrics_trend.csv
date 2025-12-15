@@ -1,0 +1,5 @@
+image,green_ratio,brightness,trend,insight
+growth-1.jpg,0.0053664750457277,0.4631366315361612,NA,NA
+growth-2.jpg,0.1136214605067064,0.2880613528405235,Healthy,Crop is growing normally.
+growth-3.jpg,0.179880239520958,0.4077065868263473,Stable,Growth is steady.
+growth-4.jpg,0.1639279038718291,0.4696293951848652,Critical,Growth is declining; check for stress or disease.
