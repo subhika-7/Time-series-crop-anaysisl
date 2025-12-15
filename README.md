@@ -31,22 +31,17 @@ The emphasis is on **data science fundamentals, feature engineering, and structu
 ---
 
 ## 🗂 Project Structure
-Time-series-crop-analysis/
-│
+tree -L 2
 ├── data/
-│
 ├── src/
 │ ├── feature_extraction.py
-│ ├── trend_analysis.py
-│
+│ └── trend_analysis.py
 ├── outputs/
 │ ├── crop_metrics.csv
-│ ├── crop_metrics_trend.csv
-│
+│ └── crop_metrics_trend.csv
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
 ---
 
 📊 Outputs
@@ -66,3 +61,4 @@ Machine learning-based health prediction
 Visualization dashboards
 
 Cloud-based data pipeline
+
